@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>歐洲職場 on 導遊的歐亞隨筆</title>
+    <link>https://shihhengc.github.io/categories/%E6%AD%90%E6%B4%B2%E8%81%B7%E5%A0%B4/</link>
+    <description>Recent content in 歐洲職場 on 導遊的歐亞隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 11 Jul 2020 10:12:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://shihhengc.github.io/categories/%E6%AD%90%E6%B4%B2%E8%81%B7%E5%A0%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的西班牙求職經驗</title>
+      <link>https://shihhengc.github.io/blog/test/</link>
+      <pubDate>Sat, 11 Jul 2020 10:12:47 +0800</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/test/</guid>
+      <description>¡Hola Mundo!
+Jo sóc el Sergi, com et dius?
+這是一級標題 這是二級標題，字比較小 Estos textos deberían ser más pequeños 我是四橫，我喜歡喇妹</description>
+    </item>
+    
+  </channel>
+</rss>
