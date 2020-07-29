@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>導遊的歐亞隨筆</title>
+    <link>https://shihhengc.github.io/</link>
+    <description>Recent content on 導遊的歐亞隨筆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 27 Jul 2020 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://shihhengc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何申請Erasmus歐洲聯合碩士學程</title>
+      <link>https://shihhengc.github.io/blog/second-post/</link>
+      <pubDate>Mon, 27 Jul 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/second-post/</guid>
+      <description>這是第二篇文章，向大家介紹你可能有聽過的Erasmus</description>
+    </item>
+    
+    <item>
+      <title>我的西班牙求職經驗</title>
+      <link>https://shihhengc.github.io/blog/test/</link>
+      <pubDate>Sat, 11 Jul 2020 10:12:47 +0800</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/test/</guid>
+      <description>¡Hola Mundo!
+Jo sóc el Sergi, com et dius?
+這是一級標題 這是二級標題，字比較小 Estos textos deberían ser más pequeños 我是四橫，我喜歡喇妹</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://shihhengc.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shihhengc.github.io/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/test2/</guid>
+      <description>這是一級標題 print(&amp;#34;HOLA MUNDO&amp;#34;) print(&amp;#34;HELLO WORLD&amp;#34;) print(&amp;#34;XIN CHAO THE GIOI&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
