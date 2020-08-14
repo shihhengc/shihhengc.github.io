@@ -6,10 +6,19 @@
     <description>Recent content on 導遊的歐亞隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 11 Jul 2020 10:12:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 10:12:47 +0800</lastBuildDate>
     
 	<atom:link href="https://shihhengc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何申請Erasmus歐盟聯合碩士學位</title>
+      <link>https://shihhengc.github.io/blog/second-post/</link>
+      <pubDate>Wed, 29 Jul 2020 10:12:47 +0800</pubDate>
+      
+      <guid>https://shihhengc.github.io/blog/second-post/</guid>
+      <description>這是第二篇文章，向大家介紹你可能有聽過的Erasmus</description>
+    </item>
     
     <item>
       <title>我的西班牙求職經驗</title>
@@ -17,9 +26,8 @@
       <pubDate>Sat, 11 Jul 2020 10:12:47 +0800</pubDate>
       
       <guid>https://shihhengc.github.io/blog/test/</guid>
-      <description>¡Hola Mundo!
-Jo sóc el Sergi, com et dius?
-這是一級標題 這是二級標題，字比較小 Estos textos deberían ser más pequeños 我是四橫，我喜歡喇妹</description>
+      <description>這是我的第二篇文章 ¡Hola Mundo!
+Jo sóc el Sergi, com et dius?</description>
     </item>
     
     <item>
